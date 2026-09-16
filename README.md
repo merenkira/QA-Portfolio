@@ -38,11 +38,11 @@ You can download my resume [here](https://drive.google.com/file/d/1SiOTTEmrTm4J8
 **Databases:** SQL, MySQL, PostgreSQL, MongoDB\
 **CI/CD Integration:** GitHub Actions\
 **AI-Assisted QA:** Cursor AI, MCP, Playwright Agents\
-**Collaboration:** Agile/Scrum methodologies\
+**Collaboration:** Agile/Scrum methodologies
 
 ### Connect with Me
 
 Feel free to reach out if you have any questions about my work or would like to collaborate on QA projects!
 
-**LinkedIn** https://linkedin.com/in/merenkira\
+**LinkedIn** https://linkedin.com/in/merenkira. 
 **Email** meren.kira98@gmail.com
