@@ -1,13 +1,26 @@
 name: Playwright Tests
 on:
-  push:
-    branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
+  workflow_dispatch:      
 jobs:
   test:
     timeout-minutes: 60
     runs-on: ubuntu-latest
+    env: 
+      BASE_URL: ${{ secrets.BASE_URL }}
+      ADMIN_EMAIL: ${{ secrets.ADMIN_EMAIL }}
+      ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+      ADMIN_ROLE: ${{ secrets.ADMIN_ROLE }}
+      ADMIN_NAME: ${{ secrets.ADMIN_NAME }}
+      ADMIN_SURNAME: ${{ secrets.ADMIN_SURNAME }}
+      ADMIN_FULLNAME: ${{ secrets.ADMIN_FULLNAME }}
+      USER_EMAIL: ${{ secrets.USER_EMAIL }}
+      USER_PASSWORD: ${{ secrets.USER_PASSWORD }}
+      USER_ROLE: ${{ secrets.USER_ROLE }}
+      USER_NAME: ${{ secrets.USER_NAME }}
+      USER_SURNAME: ${{ secrets.USER_SURNAME }}
+      USER_FULLNAME: ${{ secrets.USER_FULLNAME }}        
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v4

@@ -1,7 +1,21 @@
+node_modules/
+
+# Playwright reports
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+playwright/.auth/
+
+# System files
+.env
+.DS_Store
+
+# Debug files
+card-debug.html
+details-debug.html
 
 # Playwright
-node_modules/
-/test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
