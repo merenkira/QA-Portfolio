@@ -19,14 +19,14 @@ You can download my resume [here](https://drive.google.com/file/d/1SiOTTEmrTm4J8
 - Manual and Automated Testing: functional, regression, smoke, exploratory, negative, and edge-case testing; automation with Playwright and JavaScript
 - API Testing: testing RESTful APIs using Postman, ensuring that the system backend operates correctly and meets business requirements
 - SQL & Database Validation: backend and data-consistency validation using SQL and MongoDB
-- Cross-Functional Collaboration: working closely with developers and product teams to ensure software meets both functional and user-experience standards.
+- Cross-Functional Collaboration: working closely with developers and product teams to ensure software meets both functional and user-experience standards
 
 ### Examples of My Work
 
 - Manual Test Cases: [View examples](./manual_examples/)
 - Automated Test Scripts: [View examples](./automation_examples/)
 - Bug Reports: [View examples](./bug_reports/)
-- Postman Collection: [View examples](./api/postman/) - Import the `.json` files directly into your Postman app to see how I handle API testing.
+- Postman Collection: [View examples](./api/postman/) - Import the `.json` files directly into your Postman app to see how I handle API testing
 
 ### Tools
 
@@ -44,5 +44,5 @@ You can download my resume [here](https://drive.google.com/file/d/1SiOTTEmrTm4J8
 
 Feel free to reach out if you have any questions about my work or would like to collaborate on QA projects!
 
-**LinkedIn** https://linkedin.com/in/merenkira. 
+**LinkedIn** https://linkedin.com/in/merenkira 
 **Email** meren.kira98@gmail.com
