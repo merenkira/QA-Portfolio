@@ -14,7 +14,7 @@ I'm currently studying AI testing evaluation methodologies: accuracy and perform
 
 ### Resume
 
-You can download my resume [here](https://drive.google.com/file/d/1pzi0ZWl4p-sucmNBl5o245wwYU9wFjnR/view?usp=sharing)
+You can download my resume [here](https://drive.google.com/file/d/1iETzN-Y6B-HcT-umxeX8xs8g9a6tgMhV/view?usp=sharing)
 
 ### Skills
 
